@@ -50,13 +50,15 @@ body {
 }
 
 .main-text-content1 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: linear-gradient(to right, #002670, #003afb);
+    padding-top: 1em;
 }
 
 .main-text-content2 {
     font-size: 1rem;
     margin-top: -2rem;
+    padding-top: -1em;
 }
 
 .main-text-content3 {
