@@ -142,6 +142,7 @@ td {
     width: 100%;
     height: auto;
 }
+
 @media only screen and (max-width: 768px) 
 {
     .res{
@@ -153,6 +154,28 @@ td {
     svg{
         display: none;
     }
+
+    #nav{
+        background-image: url("rect.png");
+        height: 35px;
+        display: flex;
+    }
+    
+    
+    #p1{
+        font-size: 10px;
+        color: #ff9f00;
+        margin-top: 10px;
+        margin-left: 595px;
+    }
+
+    #p3{
+        font-size: 10px;
+        color: whitesmoke;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
     .hd-content
     {
         margin-left: 10rem;
