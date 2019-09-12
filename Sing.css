@@ -118,6 +118,15 @@ h2{
 
 .tab-content-nameimg {
     font-size: 1rem;
+    
+}
+
+#money{
+    margin-top: 20px;
+}
+
+#money1{
+    margin-top: -2.1em;
 }
 
 .text-content {
@@ -184,7 +193,7 @@ td {
         display: flex;
         align-items: center;
     }
-    .res{
+    .respon{
         width: 8rem;
         height: 5.5rem;
         display: flex;
@@ -197,21 +206,21 @@ td {
         width: 100%;
         height: 18rem;
         background-size: cover;
-        background-image: url("./plane.png");
+        background-image: url("backgroundplane.png");
         background-repeat:no-repeat;
     }
     
     .container{
         margin: 0 12rem;
     }
-    .res1{
+    .respon1{
         background: #ff9f00;
-       height: 6rem;
-       width: 8.5rem;
+        height: 6rem;
+        width: 8.5rem;
         position: relative;
     }
-    .res1::before{
-        width: 14px;
+    .respon1::before{
+        width: 10px;
         content: "";
         height: 14px;
         background: #ff9f00;
